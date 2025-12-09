@@ -37,4 +37,10 @@ Now our model will respond and give results. Based on this, we can suggest the m
 ## How to Run
 Clone project → install requirements → run notebook file.
 
+## Folder structure
+- Check the 'music.csv' dataset
+- Run the 'ML_Proj_01.ipynb' file  ->  which will give the predictions
+- Try the persistent model approach
+- Check the code to get the decision tree visualisation
+
 ## Open to suggestions or improvements.
